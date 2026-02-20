@@ -132,6 +132,3 @@ This project is intended for **research and educational purposes only** and must
 Developed as part of a deep learning medical imaging project focusing on reliable and interpretable AI solutions.
   
 
----
-
-## Repository Structure
